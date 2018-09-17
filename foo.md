@@ -1,2 +1,3 @@
 foooo
 bar
+foo
