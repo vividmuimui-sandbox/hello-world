@@ -1,3 +1,4 @@
 foooo
 bar
 foo
+foo
